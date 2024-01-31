@@ -7,7 +7,11 @@ Tesla is a dominant network in this space, and currently exclusive to Tesla vehi
 
 ![dcfc_networks](images/dcfc_networks.jpg)
 
-I've compiled a map that considers where DCFC are located with geographic hexagonal state-province features.
+Some of these charger providers have signed agreements with one another to allow reciprosity or access using the same App. This below map considers the availability of DCFC by region when accounting for different partnering networks.
+
+![dcfc_networks](images/partner_netwokrs.png)
+
+Finally, I've compiled a map that considers where DCFC are located with geographic hexagonal state-province features for all charger networks, unaggregated by partner. This gives a sense for the leaders in the space as well as their geographic focus.
 
 ![all_dcfc_chargers](images/all_dcfc_networks.png)
 
