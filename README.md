@@ -1,6 +1,6 @@
 # Charging Networks
 
-Exploring the ever changing world of public fast charging stations! Check out my blog, [The Power Supply](<powersupply.substack.com/p/fast-charging-networks>, for a better picture.
+Exploring the ever changing world of public fast charging stations! Check out my blog, [The Power Supply](<powersupply.substack.com/p/fast-charging-networks>), for more details!
 
 As of 2023-07-29 01:30:29 the United States and Canada have installed 36,854 fast charging stations.1 As the name suggests, fast chargers are the only practical way to fill-up on longer trips, so understanding them is important to decarbonize travel beyond your daily commute. About 95 percent of fast chargers do not accept credit, debit or cash, relying instead on charging networks.
 
